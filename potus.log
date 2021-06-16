@@ -1,0 +1,53 @@
+
+SQL*Loader: Release 11.2.0.1.0 - Production on Thu May 8 15:28:08 2014
+
+Copyright (c) 1982, 2009, Oracle and/or its affiliates.  All rights reserved.
+
+Control File:   potus.ctl
+Data File:      C:\SQL\POTUS\POTUS.csv
+  Bad File:     C:\SQL\POTUS\POTUS.bad
+  Discard File: C:\SQL\POTUS\POTUS.dsc 
+ (Allow all discards)
+
+Number to load: ALL
+Number to skip: 1
+Errors allowed: 50
+Bind array:     64 rows, maximum of 256000 bytes
+Continuation:    none specified
+Path used:      Conventional
+
+Table POTUS, loaded from every logical record.
+Insert option in effect for this table: TRUNCATE
+TRAILING NULLCOLS option in effect
+
+   Column Name                  Position   Len  Term Encl Datatype
+------------------------------ ---------- ----- ---- ---- ---------------------
+POTUS_SEQ                           FIRST     *   ,  O(") CHARACTER            
+FNAME                                NEXT    50   ,  O(") CHARACTER            
+MNAME                                NEXT    50   ,  O(") CHARACTER            
+LNAME                                NEXT    50   ,  O(") CHARACTER            
+START_DT                             NEXT     *   ,  O(") DATETIME MM/DD/YYYY      
+END_DT                               NEXT     *   ,  O(") DATETIME MM/DD/YYYY      
+STATE                                NEXT    50   ,  O(") CHARACTER            
+
+
+Table POTUS:
+  44 Rows successfully loaded.
+  0 Rows not loaded due to data errors.
+  0 Rows not loaded because all WHEN clauses were failed.
+  0 Rows not loaded because all fields were null.
+
+
+Space allocated for bind array:                  62848 bytes(64 rows)
+Read   buffer bytes: 1048576
+
+Total logical records skipped:          1
+Total logical records read:            44
+Total logical records rejected:         0
+Total logical records discarded:        0
+
+Run began on Thu May 08 15:28:08 2014
+Run ended on Thu May 08 15:28:15 2014
+
+Elapsed time was:     00:00:06.54
+CPU time was:         00:00:00.08
