@@ -1,0 +1,76 @@
+ROWNUM,Term,POTUS Number,POTUS,FNAME,MNAME,LNAME,TERM_START_DATE,TERM_END_DATE,DOB,EOL,PARTY,FLOTUS,DT_OF_MARRIAGE,VPOTUS,POTUS_STATE,POTUS_Salary,POTUS_ELECTORAL_VOTES,ELECTORAL_TOTAL,POP_VOTE_POTUS,POP_VOTE_TOTAL,DOM_HAND
+1,1789-1792,1,George Washington,George,,Washington,4/30/1789,4/29/1792,2/22/1732,12/14/1799,Federalist,Martha Washington,1/6/1759,John Adams,Virginia,"$25,000.00 ",69,150,,,R
+2,1792-1796,1,George Washington,George,,Washington,4/30/1792,3/3/1797,2/22/1732,12/14/1799,Federalist,Martha Washington,1/6/1759,John Adams,Virginia,"$25,001.00 ",132,264,,,R
+3,1797-1801,2,John Adams,John,,Adams,3/4/1797,3/3/1801,10/30/1735,7/4/1826,Federalist,Abigail Adams,10/25/1764,Thomas Jefferson,Massachusettes,"$25,000.00 ",71,276,,,R
+4,1801-1805,3,Thomas Jefferson,Thomas,,Jefferson,3/4/1801,3/3/1805,4/13/1743,7/4/1826,Democratic-Republican,Martha Wayles Skelton Jefferson,1/1/1772,Aaron Burr,Virginia,"$25,000.00 ",73,276,,,R
+5,1805-1809,3,Thomas Jefferson,Thomas,,Jefferson,3/4/1805,3/3/1809,4/13/1743,7/4/1826,Democratic-Republican,Martha Wayles Skelton Jefferson,1/1/1772,George Clinton,Virginia,"$25,000.00 ",162,176,,,R
+6,1809-1812,4,James Madison,James,,Madison,3/4/1809,3/3/1813,3/16/1751,6/28/1836,Democratic-Republican,Dolley Madison,9/15/1794,George Clinton,Virginia,"$25,000.00 ",122,176,,,R
+7,1812-1813,4,James Madison,James,,Madison,3/4/1809,3/3/1813,3/16/1751,6/28/1836,Democratic-Republican,Dolley Madison,9/15/1794,,Virginia,"$25,000.00 ",122,176,,,R
+8,1813-1814,4,James Madison,James,,Madison,3/4/1813,3/3/1817,3/16/1751,6/28/1836,Democratic-Republican,Dolley Madison,9/15/1794,Elbridge Gerry,Virginia,"$25,000.00 ",128,218,,,R
+9,1814-1817,4,James Madison,James,,Madison,3/4/1813,3/3/1817,3/16/1751,6/28/1836,Democratic-Republican,Dolley Madison,9/15/1794,,Virginia,"$25,000.00 ",128,218,,,R
+10,1817-1821,5,James Monroe,James,,Monroe,3/4/1817,3/3/1821,4/28/1758,7/4/1831,Democratic-Republican,Elizabeth Kortright Monroe,2/16/1786,Daniel D. Tompkins,Virginia,"$25,000.00 ",183,213,,,R
+11,1821-1825,5,James Monroe,James,,Monroe,3/4/1821,3/3/1825,4/28/1758,7/4/1831,Democratic-Republican,Elizabeth Kortright Monroe,2/16/1786,Daniel D. Tompkins,Virginia,"$25,000.00 ",231,235,,,R
+12,1825-1829,6,John Quincy Adams,John,Quincy,Adams,3/4/1825,3/3/1829,7/11/1767,2/23/1848,Democratic-Republican,Louisa Catherine Adams,7/26/1797,John C. Calhoun,Massachusettes,"$25,000.00 ",84,261,108740,356038,R
+13,1829-1833,7,Andrew Jackson,Andrew,,Jackson,3/4/1829,3/3/1833,3/15/1767,6/8/1845,Democrat ,Rachel Jackson,1/17/1794,John C. Calhoun,Tennessee,"$25,000.00 ",178,261,647286,1155350,R
+14,1833-1837,7,Andrew Jackson,Andrew,,Jackson,3/4/1833,3/3/1837,3/15/1767,6/8/1845,Democrat ,Rachel Jackson,1/17/1794,Martin Van Buren,Tennessee,"$25,000.00 ",219,288,687502,2435382,R
+15,1837-1841,8,Martin Van Buren,Martin,,Van Buren,3/4/1837,3/3/1841,12/5/1782,7/24/1862,Democrat,Hannah Hoes Van Buren,2/21/1807,Richard M. Johnson,New York,"$25,000.00 ",170,294,765483,1501630,R
+16,1841,9,William Henry Harrison,William,Henry,Harrison,3/4/1841,4/4/1841,2/9/1773,4/4/1841,Whig,Anna Tuthill Symmes Harrison,11/25/1795,John Tyler,Ohio,"$25,000.00 ",234,294,1274624,2402405,R
+17,1841-1844,10,John Tyler,John,,Tyler,4/6/1841,3/3/1845,3/29/1790,1/18/1862,Whig,Letitia Christian Tyler,3/29/1813,,Virginia,"$25,000.00 ",0,0,0,0,R
+18,1844-1845,10,John Tyler,John,,Tyler,4/6/1841,3/3/1845,3/29/1790,1/18/1862,Whig,Julia Gardiner Tyler,6/26/1844,,Virginia,"$25,000.00 ",0,0,0,0,R
+19,1845-1849,11,James K. Polk,James,Knox,Polk,3/4/1845,3/3/1849,11/2/1795,6/15/1849,Democrat,Sarah Childress Polk,1/1/1824,George M. Dallas,Tennessee,"$25,000.00 ",175,275,1338464,2638561,R
+20,1849-1850,12,Zachary Taylor,Zachary,,Taylor,3/4/1849,7/9/1850,11/24/1784,7/9/1850,Whig,Margaret Mackall Smith Taylor,6/21/1810,Millard Fillmore,Louisiana,"$25,000.00 ",163,290,1360967,2583309,R
+21,1850-1853,13,Millard Fillmore,Millard,,Fillmore,7/9/1850,3/3/1853,1/7/1800,3/8/1874,Whig,Abigail Powers Fillmore,2/5/1826,,New York,"$25,000.00 ",0,0,0,0,R
+22,1853-1857,14,Franklin Pierce,Franklin,,Pierce,3/4/1853,3/3/1857,11/23/1804,10/8/1869,Democrat,Jane M. Pierce,11/10/1834,William R. King,New Hampshire,"$25,000.00 ",254,296,1601117,2986570,R
+23,1857-1861,15,James Buchanan,James,,Buchanan,3/4/1857,3/3/1861,4/23/1791,6/1/1868,Democrat,,,John C. Breckinridge,Pennsylvania,"$25,000.00 ",174,296,1832955,4044618,R
+24,1861-1865,16,Abraham Lincoln,Abraham,,Lincoln,3/4/1861,3/3/1865,2/12/1809,4/15/1865,Republican,Mary Todd Lincoln,11/4/1842,Hannibal Hamlin,Illinois,"$25,000.00 ",180,303,1865593,3439568,R
+25,1865,16,Abraham Lincoln,Abraham,,Lincoln,3/4/1865,4/15/1865,2/12/1809,4/15/1865,Republican,Mary Todd Lincoln,11/4/1842,Andrew Johnson,Illinois,"$25,000.00 ",212,314,2206938,4010725,R
+26,1865-1869,17,Andrew Johnson,Andrew,,Johnson,4/15/1865,3/3/1869,12/29/1808,7/31/1875,Democrat,Eliza McCardle Johnson,5/5/1827,,Tennessee,"$25,000.00 ",0,0,0,0,R
+27,1869-1873,18,Ulysses S. Grant,Hiram,Ulysses Simpson,Grant,3/4/1869,3/3/1873,4/27/1822,7/23/1885,Republican,Julia Dent Grant,8/22/1848,Schuyler Colfax,Ohio,"$25,000.00 ",214,317,3013421,5720250,R
+28,1873-1875,18,Ulysses S. Grant,Hiram,Ulysses Simpson,Grant,3/4/1873,11/22/1875,4/27/1822,7/23/1885,Republican,Julia Dent Grant,8/22/1848,Henry Wilson,Ohio,"$50,000.00 ",286,366,3596745,6440191,R
+29,1875-1877,18,Ulysses S. Grant,Hiram,Ulysses Simpson,Grant,11/22/1875,3/3/1877,4/27/1822,7/23/1885,Republican,Julia Dent Grant,8/22/1848,,Ohio,"$50,000.00 ",286,366,3596745,6440191,R
+30,1877-1881,19,Rutherford Birchard Hayes,Rutherford,Birchard,Hayes,3/4/1877,3/3/1881,10/4/1822,1/17/1893,Republican,Lucy Webb Hayes,12/30/1852,William A. Wheeler,Ohio,"$50,000.00 ",185,369,4036572,8320592,R
+31,1881,20,James A. Garfield,James,Abram,Garfield,3/4/1881,9/19/1881,11/19/1831,9/19/1881,Republican,Lucretia Rudolph Garfield,11/11/1858,Chester A. Arthur,Ohio,"$50,000.00 ",214,369,4453295,8867377,A
+32,1881-1885,21,Chester A. Arthur,Chester,Alan,Arthur,9/19/1881,3/3/1885,10/5/1829,11/18/1886,Republican,Ellen Lewis Herndon Arthur,10/25/1859,,New York,"$50,000.00 ",0,0,0,0,R
+33,1885-1885,22,Grover Cleveland,Stephen,Grover,Cleveland,3/4/1885,3/3/1889,3/18/1837,6/24/1908,Democrat,Frances Folsom Cleveland,6/2/1886,Thomas A. Hendricks,New York,"$50,000.00 ",219,401,4879507,9729800,R
+34,1885-1889,22,Grover Cleveland,Stephen,Grover,Cleveland,3/4/1885,3/3/1889,3/18/1837,6/24/1908,Democrat,Frances Folsom Cleveland,6/2/1886,,New York,"$50,000.00 ",219,401,4879507,9729800,R
+35,1889-1893,23,Benjamin Harrison,Benjamin,,Harrison,3/4/1889,3/3/1893,8/20/1833,3/13/1901,Republican,Caroline Lavinia Scott Harrison ,10/20/1853,Levi P. Morton,Indiana,"$50,000.00 ",233,401,5447129,10984986,R
+36,1893-1897,24,Grover Cleveland,Stephen,Grover,Cleveland,3/4/1893,3/3/1897,3/18/1837,6/24/1908,Democrat,Frances Folsom Cleveland,6/2/1886,Adlai E. Stevenson,New York,"$50,000.00 ",277,424,5537857,12123129,R
+37,1897-1899,25,William McKinley,William,,McKinley,3/4/1897,11/21/1899,1/29/1843,9/14/1901,Republican,Ida Saxton McKinley,1/25/1871,Garret A. Hobart,Ohio,"$50,000.00 ",271,447,7102246,13594805,R
+38,1899-1901,25,William McKinley,William,,McKinley,11/22/1899,3/3/1901,1/29/1843,9/14/1901,Republican,Ida Saxton McKinley,1/25/1871,,Ohio,"$50,000.00 ",271,447,7102246,13594805,R
+39,1901,25,William McKinley,William,,McKinley,3/4/1901,9/14/1901,1/29/1843,9/14/1901,Republican,Ida Saxton McKinley,1/25/1871,Theodore Roosevelt,Ohio,"$50,000.00 ",292,447,7218491,13575225,R
+40,1901-1905,26,Theodore Roosevelt,Theodore,,Roosevelt,9/14/1901,3/3/1905,10/27/1858,1/6/1919,Republican,Edith Kermit Carow Roosevelt,12/2/1886,,New York,"$50,000.00 ",0,0,0,0,R
+41,1905-1909,26,Theodore Roosevelt,Theodore,,Roosevelt,3/4/1905,3/3/1909,10/27/1858,1/6/1919,Republican,Edith Kermit Carow Roosevelt,12/2/1886,Charles W. Fairbanks,New York,"$50,000.00 ",336,476,7628461,12712684,R
+42,1909-1912,27,William H. Taft,William,Howard,Taft,3/4/1909,3/3/1913,9/15/1857,3/8/1930,Republican,Helen Herron Taft,6/19/1886,James S. Sherman,Ohio,"$75,000.00 ",321,483,7676320,14088614,R
+43,1912-1913,27,William H. Taft,William,Howard,Taft,3/4/1909,3/3/1913,9/15/1857,3/8/1930,Republican,Helen Herron Taft,6/19/1886,,Ohio,"$75,000.00 ",321,483,7676320,14088614,R
+44,1913-1915,28,Woodrow Wilson,Thomas,Woodrow,Wilson,3/4/1913,3/3/1917,12/28/1856,2/3/1924,Democrat,Ellen Axson Wilson,6/24/1885,Thomas R. Marshall,New Jersey,"$75,000.00 ",435,531,6296547,13901838,R
+45,1915-1917,28,Woodrow Wilson,Thomas,Woodrow,Wilson,3/4/1913,3/3/1917,12/28/1856,2/3/1924,Democrat,Edith Bolling Galt Wilson,12/18/1915,Thomas R. Marshall,New Jersey,"$75,000.00 ",435,531,6296547,13901838,R
+46,1917-1921,28,Woodrow Wilson,Thomas,Woodrow,Wilson,3/4/1917,3/3/1921,12/28/1856,2/3/1924,Democrat,Edith Bolling Galt Wilson,12/18/1915,Thomas R. Marshall,New Jersey,"$75,000.00 ",277,531,9127695,17661202,R
+47,1921-1923,29,Warren G. Harding,Warren,Gamaliel,Harding,3/4/1921,8/2/1923,11/2/1865,8/2/1923,Republican,Florence Kling Harding,7/8/1891,Calvin Coolidge,Ohio,"$75,000.00 ",404,531,16143407,25273735,R
+48,1923-1925,30,Calvin Coolidge,John,Calvin,Coolidge,8/3/1923,3/3/1925,7/4/1872,1/5/1933,Republican,Grace Goodhue Coolidge,10/4/1905,,Massachusettes,"$75,000.00 ",0,0,0,0,R
+49,1925-1929,30,Calvin Coolidge,John,Calvin,Coolidge,3/4/1925,3/3/1929,7/4/1872,1/5/1933,Republican,Grace Goodhue Coolidge,10/4/1905,Charles G. Dawes,Massachusettes,"$75,000.00 ",382,531,15718211,28934783,R
+50,1929-1933,31,Herbert Hoover,Herbert,Clark,Hoover,3/4/1929,3/3/1933,8/10/1874,10/20/1964,Republican,Lou Henry Hoover,2/10/1899,Charles Curtis,Iowa,"$75,000.00 ",444,531,21391993,36408162,L
+51,1933-1937,32,Franklin D. Roosevelt,Franklin,Delano,Roosevelt,3/4/1933,3/3/1937,1/30/1882,4/12/1945,Democrat,Eleanor Roosevelt,3/17/1905,John N. Garner,New York,"$75,000.00 ",472,531,22809638,38568539,R
+52,1937-1941,32,Franklin D. Roosevelt,Franklin,Delano,Roosevelt,3/4/1937,3/3/1941,1/30/1882,4/12/1945,Democrat,Eleanor Roosevelt,3/17/1905,John N. Garner,New York,"$75,000.00 ",523,531,27752869,44427534,R
+53,1941-1945,32,Franklin D. Roosevelt,Franklin,Delano,Roosevelt,3/4/1941,3/3/1945,1/30/1882,4/12/1945,Democrat,Eleanor Roosevelt,3/17/1905,Henry A. Wallace,New York,"$75,000.00 ",449,531,27307819,49628837,R
+54,1945,32,Franklin D. Roosevelt,Franklin,Delano,Roosevelt,3/4/1945,4/12/1945,1/30/1882,4/12/1945,Democrat,Eleanor Roosevelt,3/17/1905,Harry S. Truman,New York,"$75,000.00 ",432,531,25606585,47621330,R
+55,1945-1949,33,Harry S. Truman,Harry,S,Truman,4/12/1945,3/3/1949,5/8/1884,12/26/1972,Democrat,Bess Wallace Truman,6/28/1919,,Missouri,"$75,000.00 ",0,0,0,0,A
+56,1949-1953,33,Harry S. Truman,Harry,S,Truman,3/4/1949,1/20/1953,5/8/1884,12/26/1972,Democrat,Bess Wallace Truman,6/28/1919,"Barkley, Alben W.",Missouri,"$100,000.00 ",303,531,24179345,47346761,A
+57,1953-1957,34,Dwight D. Eisenhower,Dwight,David,Eisenhower,1/20/1953,1/20/1957,10/14/1890,3/28/1969,Republican,Mamie Doud Eisenhower,7/1/1916,Richard M. Nixon,Kansas,"$100,000.00 ",442,531,33936234,61251226,R
+58,1957-1961,34,Dwight D. Eisenhower,Dwight,David,Eisenhower,1/20/1957,1/20/1961,10/14/1890,3/28/1969,Republican,Mamie Doud Eisenhower,7/1/1916,Richard M. Nixon,Kansas,"$100,000.00 ",457,531,35590472,61613224,R
+59,1961-1963,35,John F. Kennedy,John,Fitzgerald,Kennedy,1/20/1961,11/22/1963,5/29/1917,11/22/1963,Democrat,Jacqueline Kennedy Onassis,9/12/1953,Lyndon B. Johnson,Massachusettes,"$100,000.00 ",303,522,34226731,68334888,R
+60,1963-1965,36,Lyndon B. Johnson,Lyndon,Baines,Johnson,11/22/1963,1/20/1965,8/27/1908,1/22/1973,Democrat,Lady Bird Johnson,11/17/1934,,Texas,"$100,000.00 ",0,0,0,0,R
+61,1963-1969,36,Lyndon B. Johnson,Lyndon,Baines,Johnson,1/20/1965,1/20/1969,8/27/1908,1/22/1973,Democrat,Lady Bird Johnson,11/17/1934,Hubert M. Humphrey,Texas,"$100,000.00 ",486,538,43129566,70307754,R
+62,1969-1973,37,Richard M. Nixon,Richard,Milhous,Nixon,1/20/1969,1/20/1973,1/9/1913,4/22/1994,Republican,Pat Nixon,6/21/1940,Spiro T. Agnew,California,"$200,000.00 ",301,538,31785480,72967119,R
+63,1973-1974,37,Richard M. Nixon,Richard,Milhous,Nixon,1/20/1973,8/9/1974,1/9/1913,4/22/1994,Republican,Pat Nixon,6/21/1940,Gerald R. Ford,California,"$200,000.00 ",520,538,41167319,70335828,R
+64,1974-1977,38,Gerald R. Ford,Gerald,Rudolph,Ford,8/9/1974,1/20/1977,7/14/1913,12/26/2006,Republican,Betty Ford,10/15/1948,Nelson Rockefeller,Michigan,"$200,000.00 ",0,0,0,0,L
+65,1977-1981,39,Jimmy Carter,James,Earl,Carter,1/20/1977,1/20/1981,10/1/1924,,Democrat,Rosalynn Carter,7/7/1946,Walter F. Mondale,Georgia,"$200,000.00 ",297,538,40827394,79973371,R
+66,1981-1985,40,Ronald Reagan,Ronald,Wilson,Reagan,1/20/1981,1/20/1985,2/6/1911,6/5/2004,Republican,Nancy Reagan,3/4/1952,George Bush,California,"$200,000.00 ",489,538,43267489,83820086,A
+67,1985-1989,40,Ronald Reagan,Ronald,Wilson,Reagan,1/20/1985,1/20/1989,2/6/1911,6/5/2004,Republican,Nancy Reagan,3/4/1952,George Bush,California,"$200,000.00 ",525,538,53428357,90359280,A
+68,1989-1993,41,George Bush,George,Herbert Walker,Bush,1/20/1989,1/20/1993,6/12/1924,11/30/2018,Republican,Barbara Bush,1/6/1945,Dan Quayle,Texas,"$200,000.00 ",426,538,48881278,90686652,L
+69,1993-1997,42,Bill Clinton,William,Jefferson,Clinton,1/20/1993,1/20/1997,8/19/1946,,Democrat,Hillary Rodham Clinton,10/11/1975,Albert Gore,Arkansas,"$200,000.00 ",370,538,44909889,103756701,L
+70,1997-2001,42,Bill Clinton,William,Jefferson,Clinton,1/20/1997,1/20/2001,8/19/1946,,Democrat,Hillary Rodham Clinton,10/11/1975,Albert Gore,Arkansas,"$200,000.00 ",379,538,45628667,91372385,L
+71,2001-2005,43,George W. Bush,George,Walker,Bush,1/20/2001,1/20/2005,7/6/1946,,Republican,Laura Bush,11/5/1977,Richard Cheney,Texas,"$400,000.00 ",271,538,50456002,101455899,R
+72,2005-2009,43,George W. Bush,George,Walker,Bush,1/20/2005,1/20/2009,7/6/1946,,Republican,Laura Bush,11/5/1977,Richard Cheney,Texas,"$400,000.00 ",286,538,62040003,121067338,R
+73,2009-2013,44,Barack Obama,Barack,Hussein,Obama,1/20/2009,1/20/2013,8/4/1961,,Democrat,Michelle Obama,10/18/1992,Joseph R. Biden,Hawaii,"$400,000.00 ",365,538,69456897,129391711,L
+74,2013-2017,44,Barack Obama,Barack,Hussein,Obama,1/20/2013,1/20/2017,8/4/1961,,Democrat,Michelle Obama,10/18/1992,Joseph R. Biden,Hawaii,"$400,000.00 ",332,538,65899625,126828606,L
+75,2017-,45,Donald Trump,Donald,John,Trump,1/20/2017,,6/14/1946,,Republican,Melania Trump,1/1/2005,Mike Pence,New York,"$400,000.00 ",306,538,62984828,128838342,R
